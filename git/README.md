@@ -1,1 +1,1 @@
-README inside git directory
+it's a readme
